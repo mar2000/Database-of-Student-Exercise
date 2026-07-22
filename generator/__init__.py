@@ -1,0 +1,1 @@
+"""Generator statycznej bazy zadań."""
